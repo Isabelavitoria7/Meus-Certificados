@@ -1,0 +1,14 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch assets/db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "author": "",
+  "license": "ISC"
+}

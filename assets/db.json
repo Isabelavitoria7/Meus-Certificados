@@ -1,0 +1,22 @@
+{
+  "certificates": [
+    {
+      "id": "aa3a",
+      "title": "HTML",
+      "description": "Marcação de texto",
+      "optionCertificate": "HTML5"
+    },
+    {
+      "id": "a51f",
+      "title": "CSS",
+      "description": "Estilo",
+      "optionCertificate": "CSS3"
+    },
+    {
+      "id": "db5f",
+      "title": "JavaScript",
+      "description": "POO",
+      "optionCertificate": "JAVASCRIPT"
+    }
+  ]
+}
